@@ -1,3 +1,3 @@
-print('hello git PyCharm')
+mensagem = "Oi"
 
-print('Teste2')
+print(mensagem)
